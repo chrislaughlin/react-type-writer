@@ -1,6 +1,6 @@
 # Stoies Noone Wanted
 
-Instagram stories recreated in HTML CSS and JS
+Typewritter built using React and CSS
 
 [Demo](https://react-typewriter.netlify.app/)
 
