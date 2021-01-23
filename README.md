@@ -1,4 +1,4 @@
-# Stoies Noone Wanted
+# React Typewritter
 
 Typewritter built using React and CSS
 
